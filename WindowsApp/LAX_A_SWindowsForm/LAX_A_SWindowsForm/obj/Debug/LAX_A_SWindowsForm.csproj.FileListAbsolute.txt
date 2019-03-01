@@ -1,0 +1,26 @@
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\bin\Debug\LAX_A_SWindowsForm.exe.config
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\bin\Debug\LAX_A_SWindowsForm.exe
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\bin\Debug\LAX_A_SWindowsForm.pdb
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.csprojAssemblyReference.cache
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.Form1.resources
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.Properties.Resources.resources
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.csproj.GenerateResource.cache
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.exe
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.pdb
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.Form2.resources
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.UpdateForm.resources
+C:\Users\kuna\source\repos\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.InsertForm.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\bin\Debug\LAX_A_SWindowsForm.exe.config
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\bin\Debug\LAX_A_SWindowsForm.exe
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\bin\Debug\LAX_A_SWindowsForm.pdb
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.csprojAssemblyReference.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.Form1.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.Form2.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.InsertForm.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.Properties.Resources.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.UpdateForm.resources
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.csproj.GenerateResource.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.exe
+C:\Users\kuna\OneDrive\Computer Engineering\P2\Object Oriented programing C#\LAX_A_SWindowsForm\LAX_A_SWindowsForm\obj\Debug\LAX_A_SWindowsForm.pdb
